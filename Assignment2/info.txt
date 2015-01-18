@@ -1,2 +1,3 @@
 name
 zip code
+phone number
